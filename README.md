@@ -79,7 +79,7 @@ Gained exposure to enterprise technology and professional software workflows whi
 
 ## 🚀 Featured Projects
 
-### 🎓 Student Management System
+### 🎓 [Student Management System](https://github.com/lakshu9799/StudentExpenseManagementSystem)
 
 A Java-based application designed to manage student information and records in an organized way.
 
