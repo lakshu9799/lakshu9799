@@ -1,87 +1,158 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" />
+# 👋 Lakshya Pandya
+<div align="center">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=0&speed=50&color=FFFFFF&center=true&vCenter=true&width=800&lines=CSE+Student+%40+VIT+Bhopal+%2728;Cybersecurity+%E2%80%A2+Software+Engineering+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Networking;Building+Security%2C+Automation+%26+Software+Solutions" />
 
 </div>
 
+</div>
+
+
+-----
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science Engineering student at VIT Bhopal**, graduating in **2028**, with a strong interest in **Cybersecurity and Software Engineering**.
+
+My interests span **security, networking, software development, automation and system fundamentals**. I enjoy turning what I learn into practical projects and exploring how software can be designed to solve real-world problems securely.
+
+I've gained professional exposure through experiences with **Pinnacle Labs** and **ServiceNow**, which have helped me understand how technical concepts translate into real-world workflows.
+
+Currently, I'm focused on strengthening my development fundamentals while building deeper knowledge in cybersecurity and networking.
+
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Technical Skills
 
-I'm a **B.Tech Computer Science student** interested in **Software Development, Cybersecurity, Linux, Networking and Digital Forensics**.
+### 💻 Programming
 
-I enjoy building practical projects, exploring new technologies, and improving my programming and problem-solving skills through hands-on development.
-
-My goal is to continuously learn, build meaningful projects, and grow as a well-rounded technology professional.
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css" />
 </p>
 
-### 🧰 Tools & Technologies
+### 🛠️ Development & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" />
 </p>
 
-### 🔐 Security & Systems
+### 🔐 Cybersecurity & Systems
 
-`Cybersecurity` • `Digital Forensics` • `Networking` • `Cryptography` • `Linux` • `Incident Response`
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Digital%20Forensics-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Cryptography-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge">
 
-## 🚀 What I'm Working On
-
-| Area | Focus |
-|---|---|
-| 💻 Development | Building practical applications |
-| 🔐 Cybersecurity | Exploring security concepts |
-| 🐧 Linux | Strengthening system fundamentals |
-| 🌐 Networking | Learning networks & protocols |
-| 🗄️ Databases | Working with SQL |
-| 🧠 Problem Solving | Improving programming skills |
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 💼 Professional Experience
+
+### 🔐 Cybersecurity Intern — Pinnacle Labs
+
+Worked in a cybersecurity-focused environment and gained practical exposure to security concepts, tools and workflows.
+
+**Focus Areas:**
+
+`Cybersecurity` • `Security Fundamentals` • `Practical Problem Solving`
+
+---
+
+### 💻 Intern — ServiceNow
+
+Gained exposure to enterprise technology and professional software workflows while developing an understanding of how technical solutions are used in real-world environments.
+
+**Focus Areas:**
+
+`Software` • `Enterprise Technology` • `Problem Solving`
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎓 Student Management System
 
-Java-based application for managing student information and records.
+A Java-based application designed to manage student information and records in an organized way.
 
-**Tech:** `Java`
+**Tech Stack:** `Java`
 
 ---
 
 ### 💰 Student Expense Management System
 
-Application for managing and tracking student expenses.
+A practical application for managing and tracking student expenses.
 
-**Tech:** `Java` • `Database`
-
----
-
-### 🔐 Cybersecurity Projects
-
-Hands-on projects exploring cybersecurity, system security, digital forensics and security workflows.
-
-**Tech:** `Python` • `Linux` • `Cybersecurity`
+**Tech Stack:** `Java` • `Database`
 
 ---
 
-## 📊 GitHub Analytics
+### 🔐 Security & Automation Projects
+
+Exploring and building projects around cybersecurity, automation, networking and system-level concepts.
+
+**Tech Stack:** `Python` • `Linux` • `Networking` • `Cybersecurity`
+
+---
+
+## 🎯 Current Focus
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshu9799&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+| Area | Focus |
+|:---:|:---|
+| 🔐 Cybersecurity | Security concepts & practical security |
+| 💻 Software Engineering | Building reliable applications |
+| 🐍 Python | Automation & development |
+| ⚙️ C++ | Programming & problem solving |
+| 🌐 Networking | Networks & protocols |
+| 🐧 Linux | System fundamentals |
+| 🤖 Automation | Security & workflow automation |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu9799&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</div>
+
+---
+
+## 🧩 How I Learn
+
+<div align="center">
+
+### **LEARN → BUILD → TEST → DEBUG → IMPROVE**
+
+</div>
+
+I prefer learning through **hands-on projects, experimentation and problem solving** rather than only studying theory.
+
+---
+
+## 📌 What I'm Looking For
+
+I'm interested in opportunities where I can:
+
+- Build practical software solutions
+- Work on cybersecurity problems
+- Learn from experienced developers and security professionals
+- Improve my system and networking knowledge
+- Contribute to meaningful technical projects
+- Explore security automation and tooling
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshu9799&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshu9799&layout=compact&theme=github_dark&hide_border=true" height="170">
 
 </div>
 
@@ -91,35 +162,35 @@ Hands-on projects exploring cybersecurity, system security, digital forensics an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lakshu9799&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=lakshu9799&theme=github-dark-blue&hide_border=true">
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🌱 Goals
 
-- [x] Learn programming fundamentals
-- [x] Build practical projects
-- [→] Improve Java & Python
-- [→] Strengthen Linux & Networking
-- [→] Explore Cybersecurity
-- [→] Build stronger real-world projects
-- [ ] Contribute to Open Source
-- [ ] Build impactful applications
+- Strengthen software engineering fundamentals
+- Build deeper cybersecurity knowledge
+- Improve Python and C++
+- Strengthen networking and Linux skills
+- Build security-focused applications
+- Explore security automation
+- Contribute to open-source projects
+- Gain more real-world development experience
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/lakshu9799">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/lakshya-pandya-933b17325/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -128,8 +199,22 @@ Hands-on projects exploring cybersecurity, system security, digital forensics an
 
 <div align="center">
 
-### `> Keep learning. Keep building. Keep improving._`
+### `> Build. Secure. Automate. Improve.`
 
-<img src="https://komarev.com/ghpvc/?username=lakshu9799&style=flat-square&color=00ff88&label=Profile+Views" />
+<br>
+
+**Thanks for visiting my profile! 🚀**
+
+<br><br>
+
+<a href="https://github.com/lakshu9799">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
+</a><a href="https://github.com/lakshu9799">
+<img src="https://img.shields.io/badge/LAKSHU9799-111827?style=flat-square&logoColor=white">
+</a><a href="https://www.linkedin.com/in/lakshya-pandya-933b17325/">
+<img src="https://img.shields.io/badge/LINKEDIN-374151?style=flat-square&logo=linkedin&logoColor=white">
+</a><a href="https://www.linkedin.com/in/lakshya-pandya-933b17325/">
+<img src="https://img.shields.io/badge/LAKSHYA%20PANDYA-0A66C2?style=flat-square&logoColor=white">
+</a>
 
 </div>
