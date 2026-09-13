@@ -89,7 +89,7 @@ A Java-based application designed to manage student information and records in a
 
 
 
-### 🔐 Security & Automation Projects
+### 🔐 [password-analyzer](https://github.com/lakshu9799/password-analyzer)
 
 Exploring and building projects around cybersecurity, automation, networking and system-level concepts.
 
