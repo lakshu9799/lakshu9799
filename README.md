@@ -1,14 +1,15 @@
 <div align="center">
 
-# 👋 Lakshya Pandya
-<div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=0&speed=50&color=FFFFFF&center=true&vCenter=true&width=800&lines=CSE+Student+%40+VIT+Bhopal+%2728;Cybersecurity+%E2%80%A2+Software+Engineering+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Networking;Building+Security%2C+Automation+%26+Software+Solutions" />
+<h1>𝓛𝒶𝓀𝓈𝒽𝓎𝒶 𝒫𝒶𝓃𝒹𝓎𝒶</h1>
 
 </div>
+<div align="center">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=0&speed=50&color=00FF88&center=true&vCenter=true&width=800&lines=CSE+Student+%40+VIT+Bhopal+%2728;Cybersecurity+%E2%80%A2+Software+Engineering+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Networking;Building+Security%2C+Automation+%26+Software+Solutions" />
+
+</div>
 </div>
 
 
