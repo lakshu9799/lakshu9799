@@ -97,9 +97,17 @@ Exploring and building projects around cybersecurity, automation, networking and
 
 ---
 
+### 🐍 [python-environment-inspector](https://github.com/lakshu9799/oss-audit-24BCY10244)
+
+A Python and Bash-based toolkit for inspecting Python environments and performing basic Linux system audits. Includes system information, package inspection, environment detection, log analysis, and manifest generation.
+
+**Tech Stack:** `Python` · `Bash` · `Linux` · `Git Bash` · `Shell Scripting` · `Open Source Software`
+
 ## 🎯 Current Focus
 
 <div align="center">
+
+---
 
 | Area | Focus |
 |:---:|:---|
