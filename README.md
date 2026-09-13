@@ -97,7 +97,7 @@ Exploring and building projects around cybersecurity, automation, networking and
 
 ---
 
-### 🐍 [python-environment-inspector](https://github.com/lakshu9799/oss-audit-24BCY10244)
+### 🐍 [Python Environment Inspector — Open Source Analysis & System Audit Toolkit](https://github.com/lakshu9799/oss-audit-24BCY10244)
 
 A Python and Bash-based toolkit for inspecting Python environments and performing basic Linux system audits. Includes system information, package inspection, environment detection, log analysis, and manifest generation.
 
