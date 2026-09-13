@@ -2,27 +2,17 @@
 
 <img src="./github-banner.png" width="100%" />
 
-<br>
-
-### B.Tech CSE Student &nbsp;•&nbsp; Software Development &nbsp;•&nbsp; Cybersecurity
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Learning+%7C+Building+%7C+Exploring+%7C+Improving;Turning+ideas+into+real-world+solutions;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Repeat" />
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Computer Science student** interested in
-**Software Development, Cybersecurity, Linux, Networking and Digital Forensics**.
+I'm a **B.Tech Computer Science student** interested in **Software Development, Cybersecurity, Linux, Networking and Digital Forensics**.
 
-I enjoy building practical projects, exploring new technologies,
-and improving my programming and problem-solving skills through
-hands-on development.
+I enjoy building practical projects, exploring new technologies, and improving my programming and problem-solving skills through hands-on development.
 
-My goal is to continuously learn, build meaningful projects,
-and grow as a well-rounded technology professional.
+My goal is to continuously learn, build meaningful projects, and grow as a well-rounded technology professional.
 
 ---
 
@@ -42,8 +32,7 @@ and grow as a well-rounded technology professional.
 
 ### 🔐 Security & Systems
 
-`Cybersecurity` &nbsp; `Digital Forensics` &nbsp; `Networking` &nbsp;
-`Cryptography` &nbsp; `Linux` &nbsp; `Incident Response`
+`Cybersecurity` • `Digital Forensics` • `Networking` • `Cryptography` • `Linux` • `Incident Response`
 
 ---
 
@@ -68,16 +57,19 @@ Java-based application for managing student information and records.
 
 **Tech:** `Java`
 
+---
+
 ### 💰 Student Expense Management System
 
 Application for managing and tracking student expenses.
 
 **Tech:** `Java` • `Database`
 
+---
+
 ### 🔐 Cybersecurity Projects
 
-Hands-on projects exploring cybersecurity, system security,
-digital forensics and security workflows.
+Hands-on projects exploring cybersecurity, system security, digital forensics and security workflows.
 
 **Tech:** `Python` • `Linux` • `Cybersecurity`
 
