@@ -203,19 +203,8 @@ I'm interested in opportunities where I can:
 ### `> Build. Secure. Automate. Improve.`
 
 <br>
+<div align="center">
 
-**Thanks for visiting my profile! 🚀**
-
-<br><br>
-
-<a href="https://github.com/lakshu9799">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
-</a><a href="https://github.com/lakshu9799">
-<img src="https://img.shields.io/badge/LAKSHU9799-111827?style=flat-square&logoColor=white">
-</a><a href="https://www.linkedin.com/in/lakshya-pandya-933b17325/">
-<img src="https://img.shields.io/badge/LINKEDIN-374151?style=flat-square&logo=linkedin&logoColor=white">
-</a><a href="https://www.linkedin.com/in/lakshya-pandya-933b17325/">
-<img src="https://img.shields.io/badge/LAKSHYA%20PANDYA-0A66C2?style=flat-square&logoColor=white">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=0&speed=60&color=00FF88&center=true&vCenter=true&width=650&height=45&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80" />
 
 </div>
