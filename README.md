@@ -48,7 +48,6 @@ Currently, I'm focused on strengthening my development fundamentals while buildi
 <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
 <img src="https://img.shields.io/badge/Networking-111827?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Digital%20Forensics-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Cryptography-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge">
 
@@ -88,13 +87,7 @@ A Java-based application designed to manage student information and records in a
 
 ---
 
-### 💰 Student Expense Management System
 
-A practical application for managing and tracking student expenses.
-
-**Tech Stack:** `Java` • `Database`
-
----
 
 ### 🔐 Security & Automation Projects
 
